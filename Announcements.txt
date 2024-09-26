@@ -1,0 +1,100 @@
+Welcome to Chichiya Automation Auto Cook 
+
+The latest version is 4.30
+Whats new:
+ - Added character movements to bypass captcha
+ 
+
+
+If you find any more bugs, please let me know.
+
+
+version 4.20
+Whats new:
+ - New feature: Cursor changes to hand when hovering to anything clickable.
+ - Remake Arroz Con Pollo now supports up to 47 ovens. (Used to be 17)
+ - Added Trawler's Man Recipe
+ - Added Poop Pie Recipe
+ - Items in About Tab moved to Settings Tab
+ - Added current version in settings tab
+ 
+
+version 4.01
+Whats new:
+- v2 is now officially called Standard Auto Cook and v3 is now officially called Premium Auto Cook.
+- Standard and Premium Auto Cook is now together in 1 app.
+- Auto Chemsynth, Auto Clicker, Auto Chat (Spammer), Auto Harvest Provider, Easy Link (Helpful for linking provider farm) will also be added in 1 app (Free).
+- You can now send a report using the app instead of sending us a report message. 
+- GUI Dark/Light Mode.
+- Profit Calculator.
+- You can now get your PC UUID in About tab.
+
+
+version 3.4.0
+Whats New:
+- Bug fixed: Auto Flour goes straight to Room 2 (You need to delete the old auto flour.exe)
+- Bug fixed: Opens up unlimited Browser
+- Added Logs when cooking
+- Supports 68 - 94 ovens
+- Redesigned Gemonade Timer to Minutes:Seconds
+- Enabled Test Button
+
+
+version v3.3.0
+Whats new:
+ - Auto save coordinates.
+ - Force stop will also stop auto flour.
+ - You can now set how many Gemonades to use (minimum 2).
+ - Logs to easily find solution for bugs.
+ - Auto close Growtopia after gemonade run out.
+ - New Graphic User Interface (Smaller for low resolution computers).
+ - New security system.
+ - Test button to test if room1 and room2 image are correct.
+
+version v3.1.3
+Whats new:
+ - Fix bug clicking valentine event after cooking.
+
+
+version v3.1.2
+Whats new:
+ - Fix bug doesnt punch ovens. 
+
+version v3.1.1
+Whats new:
+ - Fix bug clicking valentine event after cooking. 
+
+version v3.1.0
+Whats new:
+ - You can no longer use the old version.
+ - Added additional security.
+ 
+
+version v3.0.6
+Whats new:
+ - 80 oven support.
+ - Force close will also stop auto flour.
+
+version v3.0.5
+Whats new:
+ -Bug fixed: Presses f1 and f2 outside Growtopia.
+
+
+version v3.0.4
+Whats new:
+ -Bug fixed:Turned Off Auto Add Flour Hotkeys Interval
+
+
+version v3.0.3
+Whats new:
+ -Bug fixed: presses wrench when punching the ovens.
+
+
+Version 3.0.2
+Whats new:
+ -Bug fixed: Too much Bland Mush
+ -Bug fixed: Auto Flour Pause forever
+ -Bug fixed: Auto Add Flour Manual Control
+
+
+
