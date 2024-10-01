@@ -1,13 +1,19 @@
 Welcome to Chichiya Automation Auto Cook 
 
-The latest version is 4.30
+The latest version is 4.31
+Whats new:
+- fixed a bug with standard berry crepe auto food buff being consumed every loop
+
+If you find any more bugs, please let me know.
+
+
+
+
+version 4.30
 Whats new:
  - Added character movements to bypass captcha
  - Chichiya autocook is back!
- 
 
-
-If you find any more bugs, please let me know.
 
 
 version 4.20
