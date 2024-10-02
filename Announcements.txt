@@ -2,7 +2,8 @@ Welcome to Chichiya Automation Auto Cook
 
 The latest version is 4.31
 Whats new:
-- fixed a bug with standard berry crepe auto food buff being consumed every loop
+- Fixed a bug with standard berry crepe auto food buff being consumed every loop
+- Fixed a bug that caused the bot to run right after entering storage with standard berry crepe recipe
 
 If you find any more bugs, please let me know.
 
